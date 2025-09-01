@@ -19,3 +19,4 @@ npm run dev
 ### Deployment
 
 This project is configured for automatic deployment to Netlify.
+# Test commit to trigger workflows
